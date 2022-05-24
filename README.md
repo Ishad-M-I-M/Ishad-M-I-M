@@ -1,6 +1,6 @@
 # Hi👋, I'm Mohamed Ishad
 
-## ⚡Technoloogies Familiar with.
+## ⚡Technologies Familiar with.
 ![Python](https://img.shields.io/badge/-python-white?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java)
 ![HTML](https://img.shields.io/badge/-html-white?style=flat-square&logo=html5)
@@ -14,7 +14,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ## My contributions in GitHub
-![alt text](https://github-readme-stats.vercel.app/api?username=Ishad-M-I-M&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+![github statistics](https://github-readme-stats.vercel.app/api?username=Ishad-M-I-M&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+
+![contributions](https://github-readme-streak-stats.herokuapp.com/?user=Ishad-M-I-M)
 
 ## Languages I had used.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishad-M-I-M&layout=compact)
