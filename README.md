@@ -12,7 +12,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-
+![GitHub](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)
 ## My contributions in GitHub
 ![github statistics](https://github-readme-stats.vercel.app/api?username=Ishad-M-I-M&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
 
