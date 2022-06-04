@@ -14,12 +14,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitHub](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)
 ## My contributions in GitHub
-![github statistics](https://github-readme-stats.vercel.app/api?username=Ishad-M-I-M&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+[![github statistics](https://github-readme-stats.vercel.app/api?username=Ishad-M-I-M&include_all_commits=true&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=Ishad-M-I-M&include_all_commits=true&count_private=true&show_icons=true)
 
-![contributions](https://github-readme-streak-stats.herokuapp.com/?user=Ishad-M-I-M)
+[![contributions](https://github-readme-streak-stats.herokuapp.com/?user=Ishad-M-I-M)](https://github-readme-streak-stats.herokuapp.com/?user=Ishad-M-I-M)
+
 
 ## Languages I had used.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishad-M-I-M&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishad-M-I-M&layout=compact&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishad-M-I-M&layout=compact&langs_count=8)
 
 ## 📞 Find me on
 [![LinkedIn Badge](https://img.shields.io/badge/-Mohamed%20Ishad-yellow?style=square&labelColor=000000&logo=LinkedIn)](https://www.linkedin.com/in/mohamed-ishad-532b28198)
