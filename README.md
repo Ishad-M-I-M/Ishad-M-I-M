@@ -23,6 +23,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishad-M-I-M&layout=compact&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishad-M-I-M&layout=compact&langs_count=8)
 
 ## 📞 Find me on
-[![LinkedIn Badge](https://img.shields.io/badge/-Mohamed%20Ishad-yellow?style=square&labelColor=ffffff&logo=LinkedIn)](https://www.linkedin.com/in/mohamed-ishad-532b28198)
-[![Medium Badge](https://img.shields.io/badge/-@ishadijaz-green?style=square&labelColor=ffffff&logo=Medium)](https://medium.com/@ishadijaz)
+[![LinkedIn Badge](https://img.shields.io/badge/-Mohamed%20Ishad-yellow?style=square&labelColor=ffffff&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/mohamed-ishad-532b28198)
+[![Medium Badge](https://img.shields.io/badge/-@ishadijaz-green?style=square&labelColor=ffffff&logo=Medium&logoColor=black)](https://medium.com/@ishadijaz)
 [![Fiverr Badge](https://img.shields.io/badge/-mohamedishad-orange?style=square&labelColor=ffffff&logo=fiverr)](https://www.fiverr.com/mohamedishad)
