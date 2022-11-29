@@ -1,5 +1,5 @@
 # Hi👋, I'm Mohamed Ishad
-
+![](https://komarev.com/ghpvc/?username=Ishad-M-I-M&style=for-the-badge)
 ## ⚡Technologies Familiar with.
 ### Languages
 ![Python](https://img.shields.io/badge/-python-white?style=for-the-badge&labelColor=000000&logo=python)
@@ -26,7 +26,7 @@
 [![contributions](https://github-readme-streak-stats.herokuapp.com/?user=Ishad-M-I-M)](https://github-readme-streak-stats.herokuapp.com/?user=Ishad-M-I-M)
 
 
-## Languages I had used.
+## Languages I have used.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishad-M-I-M&layout=compact&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishad-M-I-M&layout=compact&langs_count=8)
 
 ## 📞 Find me on
