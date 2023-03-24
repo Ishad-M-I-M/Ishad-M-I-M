@@ -9,6 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&labelColor=000000&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&labelColor=000000&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&labelColor=000000&logo=mysql)
+![Ballerina](https://img.shields.io/badge/-Ballerina-white?style=for-the-badge&labelColor=000000&logo=ballerina)
 
 ### Frameworks
 ![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=for-the-badge&labelColor=000000&logo=Node.js)
