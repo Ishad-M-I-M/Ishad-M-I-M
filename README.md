@@ -1,5 +1,5 @@
 # Hi👋, I'm Mohamed Ishad
-
+![](https://komarev.com/ghpvc/?username=Ishad-M-I-M&style=for-the-badge)
 ## ⚡Technologies Familiar with.
 ### Languages
 ![Python](https://img.shields.io/badge/-python-white?style=for-the-badge&labelColor=000000&logo=python)
@@ -9,6 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&labelColor=000000&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&labelColor=000000&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&labelColor=000000&logo=mysql)
+![Ballerina](https://img.shields.io/badge/-Ballerina-white?style=for-the-badge&labelColor=000000&logo=ballerina)
 
 ### Frameworks
 ![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=for-the-badge&labelColor=000000&logo=Node.js)
@@ -27,7 +28,7 @@
 
 
 ## Languages Skills
-[![Top Langs](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=IShad-M-I-M)](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=IShad-M-I-M)
+[![Top Langs](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Ishad-M-I-M)](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=IShad-M-I-M)
 
 ## 📞 Find me on
 [![LinkedIn Badge](https://img.shields.io/badge/-Mohamed%20Ishad-yellow?style=square&labelColor=ffffff&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/mohamed-ishad-532b28198)
