@@ -27,10 +27,6 @@
 
 [![contributions](https://github-readme-streak-stats.herokuapp.com/?user=Ishad-M-I-M)](https://github-readme-streak-stats.herokuapp.com/?user=Ishad-M-I-M)
 
-
-## Languages Skills
-[![Top Langs](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Ishad-M-I-M)](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=IShad-M-I-M)
-
 ## 📞 Find me on
 [![LinkedIn Badge](https://img.shields.io/badge/-Mohamed%20Ishad-yellow?style=square&labelColor=ffffff&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/mohamed-ishad-532b28198)
 [![Medium Badge](https://img.shields.io/badge/-@ishadijaz-green?style=square&labelColor=ffffff&logo=Medium&logoColor=black)](https://medium.com/@ishadijaz)
